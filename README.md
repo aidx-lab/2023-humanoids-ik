@@ -1,4 +1,4 @@
-### Efficient Learning of Fast Inverse Kinematics with Collision Avoidance
+## Efficient Learning of Fast Inverse Kinematics with Collision Avoidance
 
 ### Websites 
  - [https://aidx-lab.org/2023-humanoids-ik](https://aidx-lab.org/2023-humanoids-ik) (main)
