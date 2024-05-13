@@ -1,0 +1,15 @@
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.bundle/
+vendor/
+Gemfile.lock
+
+*.css.map
+*.css
+
+# macOS
+.DS_Store
+.playback.bin.icloud
+

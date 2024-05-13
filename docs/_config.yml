@@ -1,0 +1,24 @@
+theme: minima
+markdown: kramdown
+
+title: Efficient Learning of Fast Inverse Kinematics with Collision Avoidance
+
+author: johannes.tenhumberg@dlr.de
+
+header_pages:
+  - _pages/robots.md
+  - _pages/worlds.md
+  - _pages/bps.md
+  - _pages/methods.md
+  - _pages/results.md
+  - _pages/gallery.md
+  - _pages/code.md
+
+include:
+    - _pages
+
+exclude:
+    - .gitignore
+    - Gemfile
+    - README.md
+
