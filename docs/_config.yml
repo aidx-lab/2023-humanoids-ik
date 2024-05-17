@@ -13,9 +13,13 @@ header_pages:
   - _pages/results.md
   - _pages/gallery.md
   - _pages/code.md
+  - _pages/lab.md
 
 include:
     - _pages
+
+plugins:
+  - jekyll-redirect-from
 
 exclude:
     - .gitignore
