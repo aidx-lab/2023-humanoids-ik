@@ -30,8 +30,10 @@ It requires ten times less training time than a supervised training method while
 ---
 <p align="center">
 <iframe width="560" height="315" 
-src="https://www.youtube.com/embed/hl327KCi7tU"
+src="https://www.youtube.com/embed/k96r7l2s384?si=rIMfyJil78aziiW7"
+frameborder="0"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+referrerpolicy="strict-origin-when-cross-origin" 
 allowfullscreen>
 </iframe>
 </p>
