@@ -3,9 +3,12 @@ layout: page
 title:
 ---
 
-This site complements the paper [**Efficient Learning of Fast Inverse Kinematics with Collision Avoidance**](https://ieeexplore.ieee.org/document/10375143) by
-[Johannes Tenhumberg](https://scholar.google.com/citations?user=2RZuYZMAAAAJ), [Arman Milke](https://scholar.google.com), and [Berthold Bäuml](https://scholar.google.com/citations?user=fjvpDsEAAAAJ)
-presented at the _2023 IEEE-RAS International Conference on Humanoid Robots_, in Austin, USA.
+This site complements the paper 
+[**Efficient Learning of Fast Inverse Kinematics with Collision Avoidance**](https://ieeexplore.ieee.org/document/10375143) by
+[Johannes Tenhumberg](https://scholar.google.com/citations?user=2RZuYZMAAAAJ), 
+[Arman Milke](https://www.ki.uni-stuttgart.de/institute/team/Mielke-00002/), and 
+[Berthold Bäuml](https://scholar.google.com/citations?user=fjvpDsEAAAAJ) presented at the 
+_2023 IEEE-RAS International Conference on Humanoid Robots_, in Austin, USA.
 
 
 ![Agile Justin in front of a shelf](/assets/imgs/justin_shelf2.jpg){:.this
@@ -50,4 +53,4 @@ Cite this paper as:
         booktitle = {IEEE-RAS International Conference on Humanoid Robots (Humanoids)},
         year = 2023}
 
-[arxiv](https://arxiv.org/pdf/2311.05938)
+[arxiv](https://arxiv.org/abs/2311.05938)
